@@ -1,2 +1,2 @@
 # Fashion-Blog
-My fist HTML code.
+My first HTML code.
